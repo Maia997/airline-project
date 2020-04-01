@@ -1,0 +1,36 @@
+
+
+
+
+
+
+1 - Escolher as origem-destino, data saída-volta, quantidade, classe.
+
+2 - Login 
+	*AUTENTICAR
+	*FAZER CADASTRO
+	- Nome completo
+	- Dt nascimento
+	- CPF
+	- RG
+	- Endereço
+		- CEP
+		- rua
+		- bairro
+		- numero
+		- complemento
+		- cidade
+		- uf
+	- email
+	- telefone
+	- celular
+	- senha (forte)
+	- PCD
+
+3 - Escolha da poltrona
+	- filtrar classe
+	- filtrar disponiveis
+	- filtrar cadastro cliente (PCD)
+	
+
+
